@@ -10,6 +10,7 @@ function App() {
         <>
             <h1>TIER LIST</h1>
             <div>{main body will go here}</div>
+            <div>{footer}</div>
         </>
     );
 }
