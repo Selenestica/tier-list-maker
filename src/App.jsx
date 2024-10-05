@@ -9,6 +9,7 @@ function App() {
     return (
         <>
             <h1>TIER LIST</h1>
+            <div>{header}<\div>
             <div>{main body will go here}</div>
             <div>{footer}</div>
         </>
