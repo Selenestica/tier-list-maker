@@ -12,6 +12,7 @@ function App() {
             <div>{header}<\div>
             <div>{main body will go here}</div>
             <div>{footer}</div>
+            <div>should we run ads on this site?</div>
         </>
     );
 }
