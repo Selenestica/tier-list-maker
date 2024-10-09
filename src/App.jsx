@@ -9,6 +9,7 @@ function App() {
     return (
         <>
             <h1>TIER LIST</h1>
+            <div>main body here</div>
         </>
     );
 }
